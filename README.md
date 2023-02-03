@@ -1,1 +1,2 @@
-# 3830-W3-Socket Coded by Jeffrey Li for C# socket study
+# 3830U Networking Study. 
+## by Jeffrey Li - 100712344
